@@ -1,0 +1,21 @@
+date,commande,region,produit,categorie,quantite,prix_unitaire,cout_unitaire
+2026-01-05,C001,Île-de-France,Casque audio,Audio,2,79.99,42.00
+2026-01-06,C002,Auvergne-Rhône-Alpes,Clavier mécanique,Périphériques,1,119.00,68.00
+2026-01-08,C003,Île-de-France,Souris sans fil,Périphériques,3,39.99,18.00
+2026-01-12,C004,Provence-Alpes-Côte d'Azur,Écran 27 pouces,Écrans,1,249.00,150.00
+2026-01-15,C005,Nouvelle-Aquitaine,Webcam HD,Accessoires,2,59.99,30.00
+2026-01-18,C001,Île-de-France,Casque audio,Audio,1,79.99,42.00
+2026-01-20,C006,Île-de-France,Clavier mécanique,Périphériques,2,119.00,68.00
+2026-02-03,C007,Auvergne-Rhône-Alpes,Souris sans fil,Périphériques,4,39.99,18.00
+2026-02-07,C008,Île-de-France,Écran 27 pouces,Écrans,2,249.00,150.00
+2026-02-10,C009,Provence-Alpes-Côte d'Azur,Casque audio,Audio,3,79.99,42.00
+2026-02-14,C010,Nouvelle-Aquitaine,Clavier mécanique,Périphériques,1,119.00,68.00
+2026-02-18,C011,Île-de-France,Webcam HD,Accessoires,3,59.99,30.00
+2026-02-22,C012,Auvergne-Rhône-Alpes,Écran 27 pouces,Écrans,1,249.00,150.00
+2026-03-02,C013,Île-de-France,Casque audio,Audio,5,79.99,42.00
+2026-03-05,C014,Provence-Alpes-Côte d'Azur,Souris sans fil,Périphériques,2,39.99,18.00
+2026-03-09,C015,Nouvelle-Aquitaine,Clavier mécanique,Périphériques,2,119.00,68.00
+2026-03-12,C016,Île-de-France,Écran 27 pouces,Écrans,3,249.00,150.00
+2026-03-16,C017,Auvergne-Rhône-Alpes,Webcam HD,Accessoires,1,59.99,30.00
+2026-03-20,C018,Île-de-France,Casque audio,Audio,2,79.99,42.00
+2026-03-24,C019,Provence-Alpes-Côte d'Azur,Clavier mécanique,Périphériques,1,119.00,68.00
